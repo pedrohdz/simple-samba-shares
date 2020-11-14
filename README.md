@@ -1,4 +1,6 @@
-# simple-samba-shares
+# simple-samba-shares-docker
+
+![Continuous Integration & Deployment](https://github.com/pedrohdz/simple-samba-shares-docker/workflows/Continuous%20Integration%20&%20Deployment/badge.svg)
 
 Build and push:
 
