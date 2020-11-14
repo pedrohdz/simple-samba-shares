@@ -4,7 +4,8 @@ name: Continuous Integration & Deployment
 on:
   push:
   # At 03:27 on Monday
-  schedule: '27 3 * * 1'
+  schedule:
+    - cron: '27 3 * * 1'
 
 env:
   image_name: simple-samba-shares
