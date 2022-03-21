@@ -1,4 +1,4 @@
-FROM alpine:3.12.2
+FROM alpine:3.15.1
 
 ARG SMBD_DEBUG_LEVEL=0
 
